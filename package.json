@@ -1,0 +1,26 @@
+{
+  "name": "clickatex",
+  "version": "1.0.0",
+  "description": "Unofficial Clickatell API for delivering SMS messages from node.js applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0;"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gammasoft/clickatex.git"
+  },
+  "keywords": [
+    "clickatell",
+    "sms"
+  ],
+  "author": "Renato Gama <renato@gammasoft.com.br>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gammasoft/clickatex/issues"
+  },
+  "homepage": "https://github.com/gammasoft/clickatex",
+  "dependencies": {
+    "request": "^2.54.0"
+  }
+}
