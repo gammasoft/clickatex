@@ -10,7 +10,9 @@ npm install --save clickatex
 ### Usage
 
 ```javascript
-var sms = new Client({
+var clickatex = require('clickatex');
+
+var sms = new clickatex.Client({
     apiId: '12341234',
     user: 'yourUserName',
     password: 'yourPass'
