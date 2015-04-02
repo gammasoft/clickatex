@@ -1,5 +1,5 @@
 # Clickatex
-Unofficial Clickatell API for delivering SMS messages from node.js applications
+Unofficial [Clickatell](http://clickatell.com/) API for delivering SMS messages from node.js applications.
 
 ### Intallation
 
